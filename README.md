@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Himanshu Lal Sah
-- 👀 I’m interested in web devlopment specialy in frontend
+- 👀 I’m interested in web devlopment (frontend developer)
 - 🌱 I’m currently learning javascript and react
 - 💞️ I’m looking to collaborate on web devlopment
 - 📫 How to reach me - email - harshitsah0011@gmail.com
